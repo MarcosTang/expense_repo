@@ -10,5 +10,11 @@
    "type": "transport",
    "description": "bus",
    "amount": 5
+ },
+  {
+   "date": "20200318",
+   "type": "transport",
+   "description": "bus",
+   "amount": 15
  }
 ]
